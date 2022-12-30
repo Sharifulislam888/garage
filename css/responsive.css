@@ -1,0 +1,16 @@
+@media (max-width: 991px) {
+	.menu-bar{
+		display: none;
+	}
+	.menu-icon{
+  		display: block;
+  		text-align: right;
+  		font-size: 35px;
+	}
+
+	.contact-form form textarea{
+		width: 90%;
+	}
+}
+
+@media (max-width: 575px) {}
